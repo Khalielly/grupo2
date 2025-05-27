@@ -29,7 +29,7 @@ Tarefas (issues), atribuição de tarefa, responsabilidades, prazos, etc.
 
 - [Diniz](https://github.com/dinizanjos): Documentação.  
 - [Khalil](https://github.com/Khalielly): Back-end.  
-- [Heitor](https://github.com/Heitortxl): VAlidação e Testes.  
+- [Heitor](https://github.com/Heitortxl): Validação e Testes.  
 - [Miguel](https://github.com/miguelccs10) e [Clara](https://github.com/claraleones): front-end / gerenciamento
 
 ---
@@ -38,4 +38,4 @@ Tarefas (issues), atribuição de tarefa, responsabilidades, prazos, etc.
 A modelagem do sistema será composta por:
 - Diagramas de classes;
 - Diagramas de sequência;
-- Casos de uso;.
+- Casos de uso;
